@@ -7,7 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		843D90B21EC1EDDE00FB0E63 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 843D90B11EC1EDDE00FB0E63 /* main.c */; };
+		843D90B21EC1EDDE00FB0E63 /* 1.第一个程序.c in Sources */ = {isa = PBXBuildFile; fileRef = 843D90B11EC1EDDE00FB0E63 /* 1.第一个程序.c */; };
+		843D90CD1EC1EE3C00FB0E63 /* 2.练习.c in Sources */ = {isa = PBXBuildFile; fileRef = 843D90B91EC1EE3C00FB0E63 /* 2.练习.c */; };
+		843D90CE1EC1EE3C00FB0E63 /* 3.变量的声明.c in Sources */ = {isa = PBXBuildFile; fileRef = 843D90BA1EC1EE3C00FB0E63 /* 3.变量的声明.c */; };
+		843D90CF1EC1EE3C00FB0E63 /* 4.变量的命名.c in Sources */ = {isa = PBXBuildFile; fileRef = 843D90BB1EC1EE3C00FB0E63 /* 4.变量的命名.c */; };
+		843D90D01EC1EE3C00FB0E63 /* 5.变量的初始化.c in Sources */ = {isa = PBXBuildFile; fileRef = 843D90BC1EC1EE3C00FB0E63 /* 5.变量的初始化.c */; };
+		843D90D11EC1EE3C00FB0E63 /* 6.变量的访问.c in Sources */ = {isa = PBXBuildFile; fileRef = 843D90BD1EC1EE3C00FB0E63 /* 6.变量的访问.c */; };
+		843D90D21EC1EE3C00FB0E63 /* 7.整型.c in Sources */ = {isa = PBXBuildFile; fileRef = 843D90BE1EC1EE3C00FB0E63 /* 7.整型.c */; };
+		843D90D31EC1EE3C00FB0E63 /* 8.和差积商.c in Sources */ = {isa = PBXBuildFile; fileRef = 843D90BF1EC1EE3C00FB0E63 /* 8.和差积商.c */; };
+		843D90D41EC1EE3C00FB0E63 /* 9.整型类型信息省略.c in Sources */ = {isa = PBXBuildFile; fileRef = 843D90C01EC1EE3C00FB0E63 /* 9.整型类型信息省略.c */; };
+		843D90D51EC1EE3C00FB0E63 /* 10.整型变量赋值.c in Sources */ = {isa = PBXBuildFile; fileRef = 843D90C11EC1EE3C00FB0E63 /* 10.整型变量赋值.c */; };
+		843D90D61EC1EE3C00FB0E63 /* 11.char型.c in Sources */ = {isa = PBXBuildFile; fileRef = 843D90C21EC1EE3C00FB0E63 /* 11.char型.c */; };
+		843D90D71EC1EE3C00FB0E63 /* 12.特殊字符.c in Sources */ = {isa = PBXBuildFile; fileRef = 843D90C31EC1EE3C00FB0E63 /* 12.特殊字符.c */; };
+		843D90D81EC1EE3C00FB0E63 /* 13.浮点数据类型.c in Sources */ = {isa = PBXBuildFile; fileRef = 843D90C41EC1EE3C00FB0E63 /* 13.浮点数据类型.c */; };
+		843D90D91EC1EE3C00FB0E63 /* 14.字面值(常量).c in Sources */ = {isa = PBXBuildFile; fileRef = 843D90C51EC1EE3C00FB0E63 /* 14.字面值(常量).c */; };
+		843D90DA1EC1EE3C00FB0E63 /* 15.sizeof.c in Sources */ = {isa = PBXBuildFile; fileRef = 843D90C61EC1EE3C00FB0E63 /* 15.sizeof.c */; };
+		843D90DB1EC1EE3C00FB0E63 /* 16.scanf.c in Sources */ = {isa = PBXBuildFile; fileRef = 843D90C71EC1EE3C00FB0E63 /* 16.scanf.c */; };
+		843D90DC1EC1EE3C00FB0E63 /* 17.算数运算符.c in Sources */ = {isa = PBXBuildFile; fileRef = 843D90C81EC1EE3C00FB0E63 /* 17.算数运算符.c */; };
+		843D90DD1EC1EE3C00FB0E63 /* 18.时间转换.c in Sources */ = {isa = PBXBuildFile; fileRef = 843D90C91EC1EE3C00FB0E63 /* 18.时间转换.c */; };
+		843D90DE1EC1EE3C00FB0E63 /* 19.自增自减运算符.c in Sources */ = {isa = PBXBuildFile; fileRef = 843D90CA1EC1EE3C00FB0E63 /* 19.自增自减运算符.c */; };
+		843D90DF1EC1EE3C00FB0E63 /* 20.关系运算符.c in Sources */ = {isa = PBXBuildFile; fileRef = 843D90CB1EC1EE3C00FB0E63 /* 20.关系运算符.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +43,26 @@
 
 /* Begin PBXFileReference section */
 		843D90AE1EC1EDDE00FB0E63 /* 01_c */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 01_c; sourceTree = BUILT_PRODUCTS_DIR; };
-		843D90B11EC1EDDE00FB0E63 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		843D90B11EC1EDDE00FB0E63 /* 1.第一个程序.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "1.第一个程序.c"; sourceTree = "<group>"; };
+		843D90B91EC1EE3C00FB0E63 /* 2.练习.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "2.练习.c"; sourceTree = "<group>"; };
+		843D90BA1EC1EE3C00FB0E63 /* 3.变量的声明.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "3.变量的声明.c"; sourceTree = "<group>"; };
+		843D90BB1EC1EE3C00FB0E63 /* 4.变量的命名.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "4.变量的命名.c"; sourceTree = "<group>"; };
+		843D90BC1EC1EE3C00FB0E63 /* 5.变量的初始化.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "5.变量的初始化.c"; sourceTree = "<group>"; };
+		843D90BD1EC1EE3C00FB0E63 /* 6.变量的访问.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "6.变量的访问.c"; sourceTree = "<group>"; };
+		843D90BE1EC1EE3C00FB0E63 /* 7.整型.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "7.整型.c"; sourceTree = "<group>"; };
+		843D90BF1EC1EE3C00FB0E63 /* 8.和差积商.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "8.和差积商.c"; sourceTree = "<group>"; };
+		843D90C01EC1EE3C00FB0E63 /* 9.整型类型信息省略.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "9.整型类型信息省略.c"; sourceTree = "<group>"; };
+		843D90C11EC1EE3C00FB0E63 /* 10.整型变量赋值.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "10.整型变量赋值.c"; sourceTree = "<group>"; };
+		843D90C21EC1EE3C00FB0E63 /* 11.char型.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "11.char型.c"; sourceTree = "<group>"; };
+		843D90C31EC1EE3C00FB0E63 /* 12.特殊字符.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "12.特殊字符.c"; sourceTree = "<group>"; };
+		843D90C41EC1EE3C00FB0E63 /* 13.浮点数据类型.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "13.浮点数据类型.c"; sourceTree = "<group>"; };
+		843D90C51EC1EE3C00FB0E63 /* 14.字面值(常量).c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "14.字面值(常量).c"; sourceTree = "<group>"; };
+		843D90C61EC1EE3C00FB0E63 /* 15.sizeof.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 15.sizeof.c; sourceTree = "<group>"; };
+		843D90C71EC1EE3C00FB0E63 /* 16.scanf.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 16.scanf.c; sourceTree = "<group>"; };
+		843D90C81EC1EE3C00FB0E63 /* 17.算数运算符.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "17.算数运算符.c"; sourceTree = "<group>"; };
+		843D90C91EC1EE3C00FB0E63 /* 18.时间转换.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "18.时间转换.c"; sourceTree = "<group>"; };
+		843D90CA1EC1EE3C00FB0E63 /* 19.自增自减运算符.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "19.自增自减运算符.c"; sourceTree = "<group>"; };
+		843D90CB1EC1EE3C00FB0E63 /* 20.关系运算符.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "20.关系运算符.c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +95,26 @@
 		843D90B01EC1EDDE00FB0E63 /* 01_c */ = {
 			isa = PBXGroup;
 			children = (
-				843D90B11EC1EDDE00FB0E63 /* main.c */,
+				843D90B11EC1EDDE00FB0E63 /* 1.第一个程序.c */,
+				843D90B91EC1EE3C00FB0E63 /* 2.练习.c */,
+				843D90BA1EC1EE3C00FB0E63 /* 3.变量的声明.c */,
+				843D90BB1EC1EE3C00FB0E63 /* 4.变量的命名.c */,
+				843D90BC1EC1EE3C00FB0E63 /* 5.变量的初始化.c */,
+				843D90BD1EC1EE3C00FB0E63 /* 6.变量的访问.c */,
+				843D90BE1EC1EE3C00FB0E63 /* 7.整型.c */,
+				843D90BF1EC1EE3C00FB0E63 /* 8.和差积商.c */,
+				843D90C01EC1EE3C00FB0E63 /* 9.整型类型信息省略.c */,
+				843D90C11EC1EE3C00FB0E63 /* 10.整型变量赋值.c */,
+				843D90C21EC1EE3C00FB0E63 /* 11.char型.c */,
+				843D90C31EC1EE3C00FB0E63 /* 12.特殊字符.c */,
+				843D90C41EC1EE3C00FB0E63 /* 13.浮点数据类型.c */,
+				843D90C51EC1EE3C00FB0E63 /* 14.字面值(常量).c */,
+				843D90C61EC1EE3C00FB0E63 /* 15.sizeof.c */,
+				843D90C71EC1EE3C00FB0E63 /* 16.scanf.c */,
+				843D90C81EC1EE3C00FB0E63 /* 17.算数运算符.c */,
+				843D90C91EC1EE3C00FB0E63 /* 18.时间转换.c */,
+				843D90CA1EC1EE3C00FB0E63 /* 19.自增自减运算符.c */,
+				843D90CB1EC1EE3C00FB0E63 /* 20.关系运算符.c */,
 			);
 			path = 01_c;
 			sourceTree = "<group>";
@@ -119,7 +176,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				843D90B21EC1EDDE00FB0E63 /* main.c in Sources */,
+				843D90DA1EC1EE3C00FB0E63 /* 15.sizeof.c in Sources */,
+				843D90CE1EC1EE3C00FB0E63 /* 3.变量的声明.c in Sources */,
+				843D90D01EC1EE3C00FB0E63 /* 5.变量的初始化.c in Sources */,
+				843D90D71EC1EE3C00FB0E63 /* 12.特殊字符.c in Sources */,
+				843D90CF1EC1EE3C00FB0E63 /* 4.变量的命名.c in Sources */,
+				843D90DD1EC1EE3C00FB0E63 /* 18.时间转换.c in Sources */,
+				843D90DB1EC1EE3C00FB0E63 /* 16.scanf.c in Sources */,
+				843D90D51EC1EE3C00FB0E63 /* 10.整型变量赋值.c in Sources */,
+				843D90D91EC1EE3C00FB0E63 /* 14.字面值(常量).c in Sources */,
+				843D90D81EC1EE3C00FB0E63 /* 13.浮点数据类型.c in Sources */,
+				843D90D61EC1EE3C00FB0E63 /* 11.char型.c in Sources */,
+				843D90D21EC1EE3C00FB0E63 /* 7.整型.c in Sources */,
+				843D90DF1EC1EE3C00FB0E63 /* 20.关系运算符.c in Sources */,
+				843D90DC1EC1EE3C00FB0E63 /* 17.算数运算符.c in Sources */,
+				843D90D31EC1EE3C00FB0E63 /* 8.和差积商.c in Sources */,
+				843D90B21EC1EDDE00FB0E63 /* 1.第一个程序.c in Sources */,
+				843D90DE1EC1EE3C00FB0E63 /* 19.自增自减运算符.c in Sources */,
+				843D90D11EC1EE3C00FB0E63 /* 6.变量的访问.c in Sources */,
+				843D90D41EC1EE3C00FB0E63 /* 9.整型类型信息省略.c in Sources */,
+				843D90CD1EC1EE3C00FB0E63 /* 2.练习.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -246,6 +322,7 @@
 				843D90B71EC1EDDE00FB0E63 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
