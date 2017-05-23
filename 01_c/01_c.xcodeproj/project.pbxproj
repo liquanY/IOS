@@ -37,6 +37,16 @@
 		844EDEB91ED41B85000DE07B /* 28.位运算.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEB81ED41B85000DE07B /* 28.位运算.c */; };
 		844EDEBB1ED41C7C000DE07B /* 29.switch-case语句.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEBA1ED41C7C000DE07B /* 29.switch-case语句.c */; };
 		844EDEBD1ED41D3D000DE07B /* 30.for语句.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEBC1ED41D3D000DE07B /* 30.for语句.c */; };
+		844EDEBF1ED41EB4000DE07B /* 31.while语句.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEBE1ED41EB4000DE07B /* 31.while语句.c */; };
+		844EDEC11ED42A43000DE07B /* 32.随机数.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEC01ED42A43000DE07B /* 32.随机数.c */; };
+		844EDEC31ED42B17000DE07B /* 33.猜数字游戏.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEC21ED42B17000DE07B /* 33.猜数字游戏.c */; };
+		844EDEC51ED42B91000DE07B /* 34.do-while语句.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEC41ED42B91000DE07B /* 34.do-while语句.c */; };
+		844EDEC71ED42CB9000DE07B /* 35.登录程序.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEC61ED42CB9000DE07B /* 35.登录程序.c */; };
+		844EDEC91ED42D47000DE07B /* 36.break语句.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEC81ED42D47000DE07B /* 36.break语句.c */; };
+		844EDECB1ED42DFE000DE07B /* 37.continue语句.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDECA1ED42DFE000DE07B /* 37.continue语句.c */; };
+		844EDECD1ED42F32000DE07B /* 38.for循环嵌套.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDECC1ED42F32000DE07B /* 38.for循环嵌套.c */; };
+		844EDECF1ED42FAE000DE07B /* 39.数组.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDECE1ED42FAE000DE07B /* 39.数组.c */; };
+		844EDED11ED4340C000DE07B /* 40.求数组元素的最大值.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDED01ED4340C000DE07B /* 40.求数组元素的最大值.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -83,6 +93,16 @@
 		844EDEB81ED41B85000DE07B /* 28.位运算.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "28.位运算.c"; sourceTree = "<group>"; };
 		844EDEBA1ED41C7C000DE07B /* 29.switch-case语句.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "29.switch-case语句.c"; sourceTree = "<group>"; };
 		844EDEBC1ED41D3D000DE07B /* 30.for语句.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "30.for语句.c"; sourceTree = "<group>"; };
+		844EDEBE1ED41EB4000DE07B /* 31.while语句.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "31.while语句.c"; sourceTree = "<group>"; };
+		844EDEC01ED42A43000DE07B /* 32.随机数.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "32.随机数.c"; sourceTree = "<group>"; };
+		844EDEC21ED42B17000DE07B /* 33.猜数字游戏.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "33.猜数字游戏.c"; sourceTree = "<group>"; };
+		844EDEC41ED42B91000DE07B /* 34.do-while语句.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "34.do-while语句.c"; sourceTree = "<group>"; };
+		844EDEC61ED42CB9000DE07B /* 35.登录程序.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "35.登录程序.c"; sourceTree = "<group>"; };
+		844EDEC81ED42D47000DE07B /* 36.break语句.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "36.break语句.c"; sourceTree = "<group>"; };
+		844EDECA1ED42DFE000DE07B /* 37.continue语句.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "37.continue语句.c"; sourceTree = "<group>"; };
+		844EDECC1ED42F32000DE07B /* 38.for循环嵌套.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "38.for循环嵌套.c"; sourceTree = "<group>"; };
+		844EDECE1ED42FAE000DE07B /* 39.数组.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "39.数组.c"; sourceTree = "<group>"; };
+		844EDED01ED4340C000DE07B /* 40.求数组元素的最大值.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "40.求数组元素的最大值.c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,6 +165,16 @@
 				844EDEB81ED41B85000DE07B /* 28.位运算.c */,
 				844EDEBA1ED41C7C000DE07B /* 29.switch-case语句.c */,
 				844EDEBC1ED41D3D000DE07B /* 30.for语句.c */,
+				844EDEBE1ED41EB4000DE07B /* 31.while语句.c */,
+				844EDEC01ED42A43000DE07B /* 32.随机数.c */,
+				844EDEC21ED42B17000DE07B /* 33.猜数字游戏.c */,
+				844EDEC41ED42B91000DE07B /* 34.do-while语句.c */,
+				844EDEC61ED42CB9000DE07B /* 35.登录程序.c */,
+				844EDEC81ED42D47000DE07B /* 36.break语句.c */,
+				844EDECA1ED42DFE000DE07B /* 37.continue语句.c */,
+				844EDECC1ED42F32000DE07B /* 38.for循环嵌套.c */,
+				844EDECE1ED42FAE000DE07B /* 39.数组.c */,
+				844EDED01ED4340C000DE07B /* 40.求数组元素的最大值.c */,
 			);
 			path = 01_c;
 			sourceTree = "<group>";
@@ -211,20 +241,28 @@
 				844EDEB11ED4128E000DE07B /* 24.逻辑运算.c in Sources */,
 				844EDEB71ED41967000DE07B /* 27.左值.c in Sources */,
 				843D90CE1EC1EE3C00FB0E63 /* 3.变量的声明.c in Sources */,
+				844EDEC11ED42A43000DE07B /* 32.随机数.c in Sources */,
+				844EDECF1ED42FAE000DE07B /* 39.数组.c in Sources */,
 				844EDEB91ED41B85000DE07B /* 28.位运算.c in Sources */,
 				843D90D01EC1EE3C00FB0E63 /* 5.变量的初始化.c in Sources */,
 				843D90D71EC1EE3C00FB0E63 /* 12.特殊字符.c in Sources */,
+				844EDECD1ED42F32000DE07B /* 38.for循环嵌套.c in Sources */,
 				843D90CF1EC1EE3C00FB0E63 /* 4.变量的命名.c in Sources */,
 				843D90DD1EC1EE3C00FB0E63 /* 18.时间转换.c in Sources */,
+				844EDEC71ED42CB9000DE07B /* 35.登录程序.c in Sources */,
 				844EDEBB1ED41C7C000DE07B /* 29.switch-case语句.c in Sources */,
 				843D90DB1EC1EE3C00FB0E63 /* 16.scanf.c in Sources */,
 				843D90D51EC1EE3C00FB0E63 /* 10.整型变量赋值.c in Sources */,
+				844EDED11ED4340C000DE07B /* 40.求数组元素的最大值.c in Sources */,
 				843D90D91EC1EE3C00FB0E63 /* 14.字面值(常量).c in Sources */,
 				843D90D81EC1EE3C00FB0E63 /* 13.浮点数据类型.c in Sources */,
 				843D90D61EC1EE3C00FB0E63 /* 11.char型.c in Sources */,
 				844EDEAD1ED3E054000DE07B /* 22.转换成大写字母.c in Sources */,
+				844EDEC51ED42B91000DE07B /* 34.do-while语句.c in Sources */,
 				844EDEBD1ED41D3D000DE07B /* 30.for语句.c in Sources */,
 				843D90D21EC1EE3C00FB0E63 /* 7.整型.c in Sources */,
+				844EDEBF1ED41EB4000DE07B /* 31.while语句.c in Sources */,
+				844EDEC31ED42B17000DE07B /* 33.猜数字游戏.c in Sources */,
 				843D90DF1EC1EE3C00FB0E63 /* 20.关系运算符.c in Sources */,
 				844EDEAB1ED3E02F000DE07B /* 21.if语句.c in Sources */,
 				843D90DC1EC1EE3C00FB0E63 /* 17.算数运算符.c in Sources */,
@@ -236,6 +274,8 @@
 				843D90D11EC1EE3C00FB0E63 /* 6.变量的访问.c in Sources */,
 				843D90D41EC1EE3C00FB0E63 /* 9.整型类型信息省略.c in Sources */,
 				843D90CD1EC1EE3C00FB0E63 /* 2.练习.c in Sources */,
+				844EDEC91ED42D47000DE07B /* 36.break语句.c in Sources */,
+				844EDECB1ED42DFE000DE07B /* 37.continue语句.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
