@@ -13,7 +13,7 @@
 //    c1 = 'A';
 //    printf("%c\n", c1);//输出字符A
 //    printf("%d\n", c1);//输出字符A的ASCII
-//    c1 = 'abc';
+//    c1 = 'c';
 //    printf("%c\n", c1);
 //    
 //    c1 = 'A';//将字符A的ASCII码65赋值给变量c1

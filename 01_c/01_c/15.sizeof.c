@@ -11,8 +11,7 @@
 //    //表达式
 //    printf("%lu\n", sizeof(3 + 4.1 * 0.5));
 //    x = 1;
-//    printf("%lu\n", sizeof(x = 10));//表达式不会被运算 所以x保持1不变
-//    printf("x=%d\n", x);
+//    printf("%lu\n", sizeof(x));//如果括号里是表达式x=10 表达式不会被运算 所以x保持1不变
 //    
 //    return 0;
 //}
