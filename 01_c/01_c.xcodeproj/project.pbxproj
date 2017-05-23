@@ -27,6 +27,16 @@
 		843D90DD1EC1EE3C00FB0E63 /* 18.时间转换.c in Sources */ = {isa = PBXBuildFile; fileRef = 843D90C91EC1EE3C00FB0E63 /* 18.时间转换.c */; };
 		843D90DE1EC1EE3C00FB0E63 /* 19.自增自减运算符.c in Sources */ = {isa = PBXBuildFile; fileRef = 843D90CA1EC1EE3C00FB0E63 /* 19.自增自减运算符.c */; };
 		843D90DF1EC1EE3C00FB0E63 /* 20.关系运算符.c in Sources */ = {isa = PBXBuildFile; fileRef = 843D90CB1EC1EE3C00FB0E63 /* 20.关系运算符.c */; };
+		844EDEAB1ED3E02F000DE07B /* 21.if语句.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEAA1ED3E02F000DE07B /* 21.if语句.c */; };
+		844EDEAD1ED3E054000DE07B /* 22.转换成大写字母.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEAC1ED3E054000DE07B /* 22.转换成大写字母.c */; };
+		844EDEAF1ED3E085000DE07B /* 23.if语句执行逻辑.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEAE1ED3E085000DE07B /* 23.if语句执行逻辑.c */; };
+		844EDEB11ED4128E000DE07B /* 24.逻辑运算.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEB01ED4128E000DE07B /* 24.逻辑运算.c */; };
+		844EDEB31ED41885000DE07B /* 25.闰年判断.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEB21ED41885000DE07B /* 25.闰年判断.c */; };
+		844EDEB51ED4190D000DE07B /* 26.条件(三目)运算符.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEB41ED4190D000DE07B /* 26.条件(三目)运算符.c */; };
+		844EDEB71ED41967000DE07B /* 27.左值.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEB61ED41967000DE07B /* 27.左值.c */; };
+		844EDEB91ED41B85000DE07B /* 28.位运算.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEB81ED41B85000DE07B /* 28.位运算.c */; };
+		844EDEBB1ED41C7C000DE07B /* 29.switch-case语句.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEBA1ED41C7C000DE07B /* 29.switch-case语句.c */; };
+		844EDEBD1ED41D3D000DE07B /* 30.for语句.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEBC1ED41D3D000DE07B /* 30.for语句.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -63,6 +73,16 @@
 		843D90C91EC1EE3C00FB0E63 /* 18.时间转换.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "18.时间转换.c"; sourceTree = "<group>"; };
 		843D90CA1EC1EE3C00FB0E63 /* 19.自增自减运算符.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "19.自增自减运算符.c"; sourceTree = "<group>"; };
 		843D90CB1EC1EE3C00FB0E63 /* 20.关系运算符.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "20.关系运算符.c"; sourceTree = "<group>"; };
+		844EDEAA1ED3E02F000DE07B /* 21.if语句.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "21.if语句.c"; sourceTree = "<group>"; };
+		844EDEAC1ED3E054000DE07B /* 22.转换成大写字母.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "22.转换成大写字母.c"; sourceTree = "<group>"; };
+		844EDEAE1ED3E085000DE07B /* 23.if语句执行逻辑.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "23.if语句执行逻辑.c"; sourceTree = "<group>"; };
+		844EDEB01ED4128E000DE07B /* 24.逻辑运算.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "24.逻辑运算.c"; sourceTree = "<group>"; };
+		844EDEB21ED41885000DE07B /* 25.闰年判断.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "25.闰年判断.c"; sourceTree = "<group>"; };
+		844EDEB41ED4190D000DE07B /* 26.条件(三目)运算符.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "26.条件(三目)运算符.c"; sourceTree = "<group>"; };
+		844EDEB61ED41967000DE07B /* 27.左值.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "27.左值.c"; sourceTree = "<group>"; };
+		844EDEB81ED41B85000DE07B /* 28.位运算.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "28.位运算.c"; sourceTree = "<group>"; };
+		844EDEBA1ED41C7C000DE07B /* 29.switch-case语句.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "29.switch-case语句.c"; sourceTree = "<group>"; };
+		844EDEBC1ED41D3D000DE07B /* 30.for语句.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "30.for语句.c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +135,16 @@
 				843D90C91EC1EE3C00FB0E63 /* 18.时间转换.c */,
 				843D90CA1EC1EE3C00FB0E63 /* 19.自增自减运算符.c */,
 				843D90CB1EC1EE3C00FB0E63 /* 20.关系运算符.c */,
+				844EDEAA1ED3E02F000DE07B /* 21.if语句.c */,
+				844EDEAC1ED3E054000DE07B /* 22.转换成大写字母.c */,
+				844EDEAE1ED3E085000DE07B /* 23.if语句执行逻辑.c */,
+				844EDEB01ED4128E000DE07B /* 24.逻辑运算.c */,
+				844EDEB21ED41885000DE07B /* 25.闰年判断.c */,
+				844EDEB41ED4190D000DE07B /* 26.条件(三目)运算符.c */,
+				844EDEB61ED41967000DE07B /* 27.左值.c */,
+				844EDEB81ED41B85000DE07B /* 28.位运算.c */,
+				844EDEBA1ED41C7C000DE07B /* 29.switch-case语句.c */,
+				844EDEBC1ED41D3D000DE07B /* 30.for语句.c */,
 			);
 			path = 01_c;
 			sourceTree = "<group>";
@@ -177,20 +207,30 @@
 			buildActionMask = 2147483647;
 			files = (
 				843D90DA1EC1EE3C00FB0E63 /* 15.sizeof.c in Sources */,
+				844EDEB51ED4190D000DE07B /* 26.条件(三目)运算符.c in Sources */,
+				844EDEB11ED4128E000DE07B /* 24.逻辑运算.c in Sources */,
+				844EDEB71ED41967000DE07B /* 27.左值.c in Sources */,
 				843D90CE1EC1EE3C00FB0E63 /* 3.变量的声明.c in Sources */,
+				844EDEB91ED41B85000DE07B /* 28.位运算.c in Sources */,
 				843D90D01EC1EE3C00FB0E63 /* 5.变量的初始化.c in Sources */,
 				843D90D71EC1EE3C00FB0E63 /* 12.特殊字符.c in Sources */,
 				843D90CF1EC1EE3C00FB0E63 /* 4.变量的命名.c in Sources */,
 				843D90DD1EC1EE3C00FB0E63 /* 18.时间转换.c in Sources */,
+				844EDEBB1ED41C7C000DE07B /* 29.switch-case语句.c in Sources */,
 				843D90DB1EC1EE3C00FB0E63 /* 16.scanf.c in Sources */,
 				843D90D51EC1EE3C00FB0E63 /* 10.整型变量赋值.c in Sources */,
 				843D90D91EC1EE3C00FB0E63 /* 14.字面值(常量).c in Sources */,
 				843D90D81EC1EE3C00FB0E63 /* 13.浮点数据类型.c in Sources */,
 				843D90D61EC1EE3C00FB0E63 /* 11.char型.c in Sources */,
+				844EDEAD1ED3E054000DE07B /* 22.转换成大写字母.c in Sources */,
+				844EDEBD1ED41D3D000DE07B /* 30.for语句.c in Sources */,
 				843D90D21EC1EE3C00FB0E63 /* 7.整型.c in Sources */,
 				843D90DF1EC1EE3C00FB0E63 /* 20.关系运算符.c in Sources */,
+				844EDEAB1ED3E02F000DE07B /* 21.if语句.c in Sources */,
 				843D90DC1EC1EE3C00FB0E63 /* 17.算数运算符.c in Sources */,
 				843D90D31EC1EE3C00FB0E63 /* 8.和差积商.c in Sources */,
+				844EDEAF1ED3E085000DE07B /* 23.if语句执行逻辑.c in Sources */,
+				844EDEB31ED41885000DE07B /* 25.闰年判断.c in Sources */,
 				843D90B21EC1EDDE00FB0E63 /* 1.第一个程序.c in Sources */,
 				843D90DE1EC1EE3C00FB0E63 /* 19.自增自减运算符.c in Sources */,
 				843D90D11EC1EE3C00FB0E63 /* 6.变量的访问.c in Sources */,
