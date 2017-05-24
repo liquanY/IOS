@@ -47,6 +47,26 @@
 		844EDECD1ED42F32000DE07B /* 38.for循环嵌套.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDECC1ED42F32000DE07B /* 38.for循环嵌套.c */; };
 		844EDECF1ED42FAE000DE07B /* 39.数组.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDECE1ED42FAE000DE07B /* 39.数组.c */; };
 		844EDED11ED4340C000DE07B /* 40.求数组元素的最大值.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDED01ED4340C000DE07B /* 40.求数组元素的最大值.c */; };
+		844EDED31ED434F2000DE07B /* 41.数组续1.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDED21ED434F2000DE07B /* 41.数组续1.c */; };
+		844EDED51ED44FD1000DE07B /* 42.二维数组.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDED41ED44FD1000DE07B /* 42.二维数组.c */; };
+		844EDED71ED452AD000DE07B /* 43.函数.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDED61ED452AD000DE07B /* 43.函数.c */; };
+		844EDED91ED453BD000DE07B /* 44.函数语法.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDED81ED453BD000DE07B /* 44.函数语法.c */; };
+		844EDEDB1ED456BB000DE07B /* 45.函数声明.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEDA1ED456BB000DE07B /* 45.函数声明.c */; };
+		844EDEDD1ED45924000DE07B /* 46.函数调用.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEDC1ED45924000DE07B /* 46.函数调用.c */; };
+		844EDEDF1ED45A52000DE07B /* 47.函数求和差积商.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEDE1ED45A52000DE07B /* 47.函数求和差积商.c */; };
+		844EDEE11ED45AB5000DE07B /* 48.函数的形参与实参.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEE01ED45AB5000DE07B /* 48.函数的形参与实参.c */; };
+		844EDEE31ED51E68000DE07B /* 49.return和exit.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEE21ED51E68000DE07B /* 49.return和exit.c */; };
+		844EDEE51ED52769000DE07B /* 50.函数练习.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEE41ED52769000DE07B /* 50.函数练习.c */; };
+		844EDEE71ED55C76000DE07B /* 51.局部变量.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEE61ED55C76000DE07B /* 51.局部变量.c */; };
+		844EDEE91ED55D18000DE07B /* 52.全局变量.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEE81ED55D18000DE07B /* 52.全局变量.c */; };
+		844EDEEB1ED55EE5000DE07B /* 53.static关键字.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEEA1ED55EE5000DE07B /* 53.static关键字.c */; };
+		844EDEED1ED55F93000DE07B /* 54.指针.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEEC1ED55F93000DE07B /* 54.指针.c */; };
+		844EDEEF1ED56125000DE07B /* 55.指针用于参数.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEEE1ED56125000DE07B /* 55.指针用于参数.c */; };
+		844EDEF11ED56285000DE07B /* 56.指针求最大值最小值.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEF01ED56285000DE07B /* 56.指针求最大值最小值.c */; };
+		844EDEF31ED56302000DE07B /* 57.指针用于返回值.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEF21ED56302000DE07B /* 57.指针用于返回值.c */; };
+		844EDEF51ED566D7000DE07B /* 58.指针的加减操作.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEF41ED566D7000DE07B /* 58.指针的加减操作.c */; };
+		844EDEF71ED5690D000DE07B /* 59.指针练习.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEF61ED5690D000DE07B /* 59.指针练习.c */; };
+		844EDEF91ED57E33000DE07B /* 60.字符串.c in Sources */ = {isa = PBXBuildFile; fileRef = 844EDEF81ED57E33000DE07B /* 60.字符串.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -103,6 +123,26 @@
 		844EDECC1ED42F32000DE07B /* 38.for循环嵌套.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "38.for循环嵌套.c"; sourceTree = "<group>"; };
 		844EDECE1ED42FAE000DE07B /* 39.数组.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "39.数组.c"; sourceTree = "<group>"; };
 		844EDED01ED4340C000DE07B /* 40.求数组元素的最大值.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "40.求数组元素的最大值.c"; sourceTree = "<group>"; };
+		844EDED21ED434F2000DE07B /* 41.数组续1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "41.数组续1.c"; sourceTree = "<group>"; };
+		844EDED41ED44FD1000DE07B /* 42.二维数组.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "42.二维数组.c"; sourceTree = "<group>"; };
+		844EDED61ED452AD000DE07B /* 43.函数.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "43.函数.c"; sourceTree = "<group>"; };
+		844EDED81ED453BD000DE07B /* 44.函数语法.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "44.函数语法.c"; sourceTree = "<group>"; };
+		844EDEDA1ED456BB000DE07B /* 45.函数声明.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "45.函数声明.c"; sourceTree = "<group>"; };
+		844EDEDC1ED45924000DE07B /* 46.函数调用.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "46.函数调用.c"; sourceTree = "<group>"; };
+		844EDEDE1ED45A52000DE07B /* 47.函数求和差积商.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "47.函数求和差积商.c"; sourceTree = "<group>"; };
+		844EDEE01ED45AB5000DE07B /* 48.函数的形参与实参.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "48.函数的形参与实参.c"; sourceTree = "<group>"; };
+		844EDEE21ED51E68000DE07B /* 49.return和exit.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "49.return和exit.c"; sourceTree = "<group>"; };
+		844EDEE41ED52769000DE07B /* 50.函数练习.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "50.函数练习.c"; sourceTree = "<group>"; };
+		844EDEE61ED55C76000DE07B /* 51.局部变量.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "51.局部变量.c"; sourceTree = "<group>"; };
+		844EDEE81ED55D18000DE07B /* 52.全局变量.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "52.全局变量.c"; sourceTree = "<group>"; };
+		844EDEEA1ED55EE5000DE07B /* 53.static关键字.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "53.static关键字.c"; sourceTree = "<group>"; };
+		844EDEEC1ED55F93000DE07B /* 54.指针.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "54.指针.c"; sourceTree = "<group>"; };
+		844EDEEE1ED56125000DE07B /* 55.指针用于参数.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "55.指针用于参数.c"; sourceTree = "<group>"; };
+		844EDEF01ED56285000DE07B /* 56.指针求最大值最小值.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "56.指针求最大值最小值.c"; sourceTree = "<group>"; };
+		844EDEF21ED56302000DE07B /* 57.指针用于返回值.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "57.指针用于返回值.c"; sourceTree = "<group>"; };
+		844EDEF41ED566D7000DE07B /* 58.指针的加减操作.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "58.指针的加减操作.c"; sourceTree = "<group>"; };
+		844EDEF61ED5690D000DE07B /* 59.指针练习.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "59.指针练习.c"; sourceTree = "<group>"; };
+		844EDEF81ED57E33000DE07B /* 60.字符串.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "60.字符串.c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -175,6 +215,26 @@
 				844EDECC1ED42F32000DE07B /* 38.for循环嵌套.c */,
 				844EDECE1ED42FAE000DE07B /* 39.数组.c */,
 				844EDED01ED4340C000DE07B /* 40.求数组元素的最大值.c */,
+				844EDED21ED434F2000DE07B /* 41.数组续1.c */,
+				844EDED41ED44FD1000DE07B /* 42.二维数组.c */,
+				844EDED61ED452AD000DE07B /* 43.函数.c */,
+				844EDED81ED453BD000DE07B /* 44.函数语法.c */,
+				844EDEDA1ED456BB000DE07B /* 45.函数声明.c */,
+				844EDEDC1ED45924000DE07B /* 46.函数调用.c */,
+				844EDEDE1ED45A52000DE07B /* 47.函数求和差积商.c */,
+				844EDEE01ED45AB5000DE07B /* 48.函数的形参与实参.c */,
+				844EDEE21ED51E68000DE07B /* 49.return和exit.c */,
+				844EDEE41ED52769000DE07B /* 50.函数练习.c */,
+				844EDEE61ED55C76000DE07B /* 51.局部变量.c */,
+				844EDEE81ED55D18000DE07B /* 52.全局变量.c */,
+				844EDEEA1ED55EE5000DE07B /* 53.static关键字.c */,
+				844EDEEC1ED55F93000DE07B /* 54.指针.c */,
+				844EDEEE1ED56125000DE07B /* 55.指针用于参数.c */,
+				844EDEF01ED56285000DE07B /* 56.指针求最大值最小值.c */,
+				844EDEF21ED56302000DE07B /* 57.指针用于返回值.c */,
+				844EDEF41ED566D7000DE07B /* 58.指针的加减操作.c */,
+				844EDEF61ED5690D000DE07B /* 59.指针练习.c */,
+				844EDEF81ED57E33000DE07B /* 60.字符串.c */,
 			);
 			path = 01_c;
 			sourceTree = "<group>";
@@ -236,26 +296,40 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				844EDED71ED452AD000DE07B /* 43.函数.c in Sources */,
 				843D90DA1EC1EE3C00FB0E63 /* 15.sizeof.c in Sources */,
 				844EDEB51ED4190D000DE07B /* 26.条件(三目)运算符.c in Sources */,
 				844EDEB11ED4128E000DE07B /* 24.逻辑运算.c in Sources */,
 				844EDEB71ED41967000DE07B /* 27.左值.c in Sources */,
 				843D90CE1EC1EE3C00FB0E63 /* 3.变量的声明.c in Sources */,
+				844EDEED1ED55F93000DE07B /* 54.指针.c in Sources */,
+				844EDEF11ED56285000DE07B /* 56.指针求最大值最小值.c in Sources */,
 				844EDEC11ED42A43000DE07B /* 32.随机数.c in Sources */,
+				844EDED51ED44FD1000DE07B /* 42.二维数组.c in Sources */,
 				844EDECF1ED42FAE000DE07B /* 39.数组.c in Sources */,
+				844EDEDB1ED456BB000DE07B /* 45.函数声明.c in Sources */,
+				844EDEE71ED55C76000DE07B /* 51.局部变量.c in Sources */,
 				844EDEB91ED41B85000DE07B /* 28.位运算.c in Sources */,
 				843D90D01EC1EE3C00FB0E63 /* 5.变量的初始化.c in Sources */,
 				843D90D71EC1EE3C00FB0E63 /* 12.特殊字符.c in Sources */,
 				844EDECD1ED42F32000DE07B /* 38.for循环嵌套.c in Sources */,
+				844EDEF71ED5690D000DE07B /* 59.指针练习.c in Sources */,
 				843D90CF1EC1EE3C00FB0E63 /* 4.变量的命名.c in Sources */,
+				844EDED31ED434F2000DE07B /* 41.数组续1.c in Sources */,
 				843D90DD1EC1EE3C00FB0E63 /* 18.时间转换.c in Sources */,
 				844EDEC71ED42CB9000DE07B /* 35.登录程序.c in Sources */,
 				844EDEBB1ED41C7C000DE07B /* 29.switch-case语句.c in Sources */,
+				844EDEEF1ED56125000DE07B /* 55.指针用于参数.c in Sources */,
 				843D90DB1EC1EE3C00FB0E63 /* 16.scanf.c in Sources */,
+				844EDED91ED453BD000DE07B /* 44.函数语法.c in Sources */,
+				844EDEF51ED566D7000DE07B /* 58.指针的加减操作.c in Sources */,
 				843D90D51EC1EE3C00FB0E63 /* 10.整型变量赋值.c in Sources */,
+				844EDEF91ED57E33000DE07B /* 60.字符串.c in Sources */,
 				844EDED11ED4340C000DE07B /* 40.求数组元素的最大值.c in Sources */,
+				844EDEDF1ED45A52000DE07B /* 47.函数求和差积商.c in Sources */,
 				843D90D91EC1EE3C00FB0E63 /* 14.字面值(常量).c in Sources */,
 				843D90D81EC1EE3C00FB0E63 /* 13.浮点数据类型.c in Sources */,
+				844EDEF31ED56302000DE07B /* 57.指针用于返回值.c in Sources */,
 				843D90D61EC1EE3C00FB0E63 /* 11.char型.c in Sources */,
 				844EDEAD1ED3E054000DE07B /* 22.转换成大写字母.c in Sources */,
 				844EDEC51ED42B91000DE07B /* 34.do-while语句.c in Sources */,
@@ -271,11 +345,17 @@
 				844EDEB31ED41885000DE07B /* 25.闰年判断.c in Sources */,
 				843D90B21EC1EDDE00FB0E63 /* 1.第一个程序.c in Sources */,
 				843D90DE1EC1EE3C00FB0E63 /* 19.自增自减运算符.c in Sources */,
+				844EDEDD1ED45924000DE07B /* 46.函数调用.c in Sources */,
+				844EDEEB1ED55EE5000DE07B /* 53.static关键字.c in Sources */,
+				844EDEE31ED51E68000DE07B /* 49.return和exit.c in Sources */,
 				843D90D11EC1EE3C00FB0E63 /* 6.变量的访问.c in Sources */,
+				844EDEE11ED45AB5000DE07B /* 48.函数的形参与实参.c in Sources */,
+				844EDEE91ED55D18000DE07B /* 52.全局变量.c in Sources */,
 				843D90D41EC1EE3C00FB0E63 /* 9.整型类型信息省略.c in Sources */,
 				843D90CD1EC1EE3C00FB0E63 /* 2.练习.c in Sources */,
 				844EDEC91ED42D47000DE07B /* 36.break语句.c in Sources */,
 				844EDECB1ED42DFE000DE07B /* 37.continue语句.c in Sources */,
+				844EDEE51ED52769000DE07B /* 50.函数练习.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
